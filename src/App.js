@@ -1,7 +1,7 @@
 import React,{useState} from 'react';
 import 'antd/dist/antd.min.css'
 import './App.css'
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './pages/home'
 import Pricing from './pages/pricing'
 import Admin from './pages/admin'
