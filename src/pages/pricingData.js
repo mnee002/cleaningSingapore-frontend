@@ -68,6 +68,6 @@ export const CondoPriceData =[
     {
         key:'5',
         houseType:'5 Bedroom and above',
-        price:'$368 onwards'
+        price:'>$368'
     },
 ]
